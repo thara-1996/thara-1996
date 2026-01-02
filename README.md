@@ -21,7 +21,7 @@ and scalable system design.
 **Databases:** MySQL, MongoDB  
 **Cloud & DevOps:** Azure, Linux, Shell scripting  
 **Tools:** Git, GitHub, Jira, Postman  
-**AI & Data:** Python, Pandas, NumPy  
+**AI & Data:** Python, Pandas, NumPy, Jupyter Notebook  
 
 ---
 
