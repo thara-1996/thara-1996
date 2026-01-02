@@ -1,4 +1,3 @@
-Backend-focused Software Engineer with 4+ years of experience in RESTful API development, enterprise systems, and cloud deployment. Skilled in Node.js, TypeScript, MySQL, Azure, and Linux environments.
 # Hi, I'm Tharanga Ranaweera 👋
 
 💻 Software Engineer | Backend & Full-Stack Developer  
