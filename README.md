@@ -25,17 +25,6 @@ and scalable system design.
 
 ---
 
-## 🚀 Featured Projects
-🔹 POS Backend System – Node.js, MySQL  
-🔹 E-commerce REST API – TypeScript, JWT  
-🔹 CRM Backend – PHP (CodeIgniter)  
-🔹 Flutter Mobile App – REST Integration  
-🔹 Angular Admin Dashboard  
-
-👉 See pinned repositories below 👇
-
----
-
 ## 📫 Contact
 📧 Email: tharapranaweera@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/tharanga-priyadarshani-ranaweera-a0b8281a9  
