@@ -2,7 +2,7 @@
 
 💻 Software Engineer | Backend & Full-Stack Developer  
 📍 Finland  
-☁️ Node.js • TypeScript • REST APIs • Azure • MySQL  
+☁️ Node.js • JavaScript • REST APIs • Azure • MySQL  
 
 ---
 
