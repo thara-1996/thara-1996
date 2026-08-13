@@ -16,7 +16,7 @@ and scalable system design.
 
 ## 🛠 Tech Stack
 **Backend:** Node.js, TypeScript, Java, PHP (CodeIgniter), REST APIs  
-**Frontend:** Angular, HTML, CSS, JavaScript  
+**Frontend:** Angular, HTML, CSS, JavaScript  , React, Vue
 **Mobile:** Flutter, Android (Java/Kotlin)  
 **Databases:** MySQL, MongoDB  
 **Cloud & DevOps:** Azure, Linux, Shell scripting  
